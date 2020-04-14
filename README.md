@@ -14,7 +14,7 @@ This repository contains the code created during the [AWS Step Functions][step-f
 * 05 May - Creating workflows with the [AWS Cloud Development Kit (CDK)][cdk]
 * 12 May - Managing your workflows with [AWS CloudFormation][cloud-formation]
 
-* ## Past session videos:
+## Past session videos:
 
 * 14 April - [Service integrations][service-integrations]
 * 07 April - [Workflows for development and testing][workflows]
