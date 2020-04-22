@@ -6,7 +6,7 @@
             "Type": "Task",
             "Resource": "arn:aws:states:::lambda:invoke",
             "Parameters": {
-                "FunctionName": "arn:aws:lambda:us-east-2:081269620079:function:function-native-DoStuffFunction-2OLCSKW089ZB",
+                "FunctionName": "DoStuffFunctionArn_OUTPUT_FROM_SAM_TEMPLATE",
                 "Payload": {
                     "bucket.$": "$.bucket",
                     "prefix.$": "$.prefix"

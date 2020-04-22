@@ -38,3 +38,6 @@ Outputs:
   TestBucketName:
     Description: S3 bucket name for testing
     Value: !Ref TestBucket
+  DoStuffFunctionArn:
+    Description: ARN for the DoStuffFunction
+    Value: !GetAtt DoStuffFunction.Arn
