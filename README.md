@@ -35,7 +35,6 @@ SPDX-License-Identifier: Apache-2.0
 [iam]: https://aws.amazon.com/iam/
 [jsonpath]: https://goessner.net/articles/JsonPath/
 [serverless]: https://aws.amazon.com/serverless/
-[service-integrations]: https://docs.aws.amazon.com/step-functions/latest/dg/concepts-service-integrations.html
 [step-functions]: https://aws.amazon.com/step-functions/
 [twitch]: https://twitch.tv/aws/
 
