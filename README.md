@@ -4,6 +4,7 @@ This repository contains the code created during the [AWS Step Functions][step-f
 
 ## Code
 
+* [CDK/](CDK) - code from the [Creating workflows with the AWS Cloud Development Kit (CDK)][cdk] episode on 05 May 2020.
 * [jsonpath/](jsonpath) - code from the [JSONPath data processing][jsonpath] episode on 28 April 2020.
 * [parallelism/](parallelism) - code from the [Parallelism and concurrency][parallelism-concurrency] episode on 21 April 2020.
 * [service-integrations/](service-integrations) - code from the [Service integrations][service-integrations] episode on 14 April 2020.
@@ -11,13 +12,13 @@ This repository contains the code created during the [AWS Step Functions][step-f
 
 ## Upcoming sessions (subject to change):
 
-* 05 May - Creating workflows with the [AWS Cloud Development Kit (CDK)][cdk]
 * 12 May - Nested workflows
 * 19 May - Handling errors
 * 26 May - Scoping [AWS IAM][iam] roles for AWS Step Functions
 
 ## Past session videos:
 
+* 05 May - [Creating workflows with the AWS Cloud Development Kit (CDK)][cdk]
 * 28 April - [JSONPath data processing][jsonpath]
 * 21 April - [Parallelism and concurrency in Step Functions and AWS Lambda][parallelism-concurrency]
 * 14 April - [Service integrations][service-integrations]
@@ -27,19 +28,13 @@ This repository contains the code created during the [AWS Step Functions][step-f
 Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 SPDX-License-Identifier: Apache-2.0
 
-[aws]: https://aws.amazon.com/
-[callback-pattern]: https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html#connect-wait-token
-[cdk]: https://aws.amazon.com/cdk/
-[cloud-formation]: https://aws.amazon.com/cloudformation/
-[eventbridge]: https://aws.amazon.com/eventbridge/
-[express-workflows]: https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-aws-step-functions-express-workflows/
 [iam]: https://aws.amazon.com/iam/
-[serverless]: https://aws.amazon.com/serverless/
 [step-functions]: https://aws.amazon.com/step-functions/
 [twitch]: https://twitch.tv/aws/
 
-[jsonpath]: https://www.youtube.com/watch?v=QpZ6IdKvOdw
-[parallelism-concurrency]: https://www.youtube.com/watch?v=At5mw8T2riY
-[service-integrations]: https://www.youtube.com/watch?v=01IL3_pG3KQ
-[toolkit-support]: https://www.youtube.com/watch?v=1RJtCKpdELQ
-[workflows]: https://www.youtube.com/watch?v=X79vSGi3qGU
+[cdk]: https://youtu.be/T9iehMn5xHw
+[jsonpath]: https://youtu.be/QpZ6IdKvOdw
+[parallelism-concurrency]: https://youtu.be/At5mw8T2riY
+[service-integrations]: https://youtu.be/01IL3_pG3KQ
+[toolkit-support]: https://youtu.be/1RJtCKpdELQ
+[workflows]: https://youtu.be/X79vSGi3qGU

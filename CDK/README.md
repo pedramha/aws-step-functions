@@ -1,7 +1,8 @@
-# Welcome to your CDK TypeScript project!
+# Creating workflows with the AWS Cloud Development Kit (CDK)
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`SfnCdkStack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+Code from the [Creating workflows with the AWS Cloud Development Kit (CDK)][cdk] episode on 05 May 2020.
+
+## Executing your CDK app
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
@@ -13,3 +14,8 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
+
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+SPDX-License-Identifier: Apache-2.0
+
+[cdk]: https://youtu.be/T9iehMn5xHw
