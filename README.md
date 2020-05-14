@@ -5,6 +5,7 @@ This repository contains the code created during the [AWS Step Functions][step-f
 ## Code
 
 * [CDK/](CDK) - code from the [Creating workflows with the AWS Cloud Development Kit (CDK)][cdk] episode on 05 May 2020.
+* [handling-errors/](handling-errors) - code from the [Handling errors][handling-errors] episode on 12 May 2020.
 * [jsonpath/](jsonpath) - code from the [JSONPath data processing][jsonpath] episode on 28 April 2020.
 * [parallelism/](parallelism) - code from the [Parallelism and concurrency][parallelism-concurrency] episode on 21 April 2020.
 * [service-integrations/](service-integrations) - code from the [Service integrations][service-integrations] episode on 14 April 2020.
@@ -12,12 +13,11 @@ This repository contains the code created during the [AWS Step Functions][step-f
 
 ## Upcoming sessions (subject to change):
 
-* 12 May - Nested workflows
-* 19 May - Handling errors
-* 26 May - Scoping [AWS IAM][iam] roles for AWS Step Functions
+* 19 May - Nested workflows
 
 ## Past session videos:
 
+* 12 May - [Handling errors][handling-errors]
 * 05 May - [Creating workflows with the AWS Cloud Development Kit (CDK)][cdk]
 * 28 April - [JSONPath data processing][jsonpath]
 * 21 April - [Parallelism and concurrency in Step Functions and AWS Lambda][parallelism-concurrency]
@@ -33,6 +33,7 @@ SPDX-License-Identifier: Apache-2.0
 [twitch]: https://twitch.tv/aws/
 
 [cdk]: https://youtu.be/T9iehMn5xHw
+[handling-errors]: https://youtu.be/PyClhjMVGY8
 [jsonpath]: https://youtu.be/QpZ6IdKvOdw
 [parallelism-concurrency]: https://youtu.be/At5mw8T2riY
 [service-integrations]: https://youtu.be/01IL3_pG3KQ
